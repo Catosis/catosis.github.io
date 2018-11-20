@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yusuke Ishimi</title>
+    <title>Connie Mabel Zhang</title>
     <link>https://catosis.github.io/</link>
-    <description>Recent content on Yusuke Ishimi</description>
+    <description>Recent content on Connie Mabel Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 01 Nov 2018 15:40:56 -0700</lastBuildDate>
     
 	<atom:link href="https://catosis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TEST PAGE</title>
+      <link>https://catosis.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 01 Nov 2018 15:40:56 -0700</pubDate>
+      
+      <guid>https://catosis.github.io/posts/my-first-post/</guid>
+      <description>My first post</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://catosis.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://catosis.github.io/about/</guid>
+      <description>Connie Mabel Zhang has a bachelor&amp;rsquo;s in Mechanical Engineering but spends her time flying balloons that provide internet. In her free time she enjoys drawing and playing videogames, and hopes to work on cool new robots in the future.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://catosis.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://catosis.github.io/projects/</guid>
+      <description>Robots That Know Each Other Food of the Future The Bed Goes With You Lets Go to Otter Space My Other Computer Flies On A Balloon</description>
+    </item>
     
   </channel>
 </rss>
