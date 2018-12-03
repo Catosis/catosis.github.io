@@ -83,19 +83,19 @@
 
     <hr />
 
-<p><a href="/robotics_work">Robots That Know Each Other</a>
+<p>Robots That Know Each Other
 <img src= "/Robotics/render.jpg" width = 150px></p>
 
-<p><a href="/food_printing">Food of the Future</a>
+<p>Food of the Future
 <img src = "/CML/multimaterial.jpg" width = 150px></p>
 
-<p><a href="/hackathon_biomed">The Bed Goes With You</a>
+<p><a href="hackathon_biomed">The Bed Goes With You</a>
 <img src = "/Hackathons/final_mockup.jpg" width = 150px"></p>
 
-<p><a href="/art">Lets Go to Otter Space</a>
+<p>Lets Go to Otter Space
 <img src = "/Art/Otter.jpg" width = 150px"></p>
 
-<p><a href="/loon">My Other Computer Flies On A Balloon</a>
+<p>My Other Computer Flies On A Balloon
 <img src = "loon.jpg" width = 150px">
 </html></p>
 
@@ -116,12 +116,16 @@
       </div>
     
     
-     
+      <p>Enter a text here.</p>
+    
+     © 2018    ·  Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/naro143/hugo-coder-portfolio">CoderPortfolio</a>. 
 
   </section>
 </footer>
 <div class="fixed-bar">
   <section class="container">
+    
+      <p id="privateTriggerText">Do you want to know me more private?→<a id="privateTrigger">Click!</a></p>
     
     
       <div class="sns-shares pc-sns-shares">
@@ -140,6 +144,17 @@
     
 
   <script src="https://catosis.github.io/js/app.js"></script>
+  
+  <script>
+  (function($) {
+    $(function() {
+      $('#privateTrigger').on('click', function() {
+        $('.private').slideToggle();
+        $('#privateTriggerText').text("Thank You! Please share it if you like it→");
+      });
+    });
+   })(jQuery);
+  </script>
   
   </body>
 </html>

@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://catosis.github.io/loon/</loc>
-    <lastmod>2018-11-20T02:34:12-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://catosis.github.io/posts/my-first-post/</loc>
     <lastmod>2018-11-01T15:40:56-07:00</lastmod>
   </url>
@@ -29,7 +24,7 @@
   
   <url>
     <loc>https://catosis.github.io/</loc>
-    <lastmod>2018-11-20T02:34:12-08:00</lastmod>
+    <lastmod>2018-11-01T15:40:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
