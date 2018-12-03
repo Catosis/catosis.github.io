@@ -6,10 +6,28 @@
     <description>Recent content on Connie Mabel Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Nov 2018 02:34:12 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 03:03:31 -0800</lastBuildDate>
     
 	<atom:link href="https://catosis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Food of the Future</title>
+      <link>https://catosis.github.io/food_printing/</link>
+      <pubDate>Tue, 20 Nov 2018 03:03:31 -0800</pubDate>
+      
+      <guid>https://catosis.github.io/food_printing/</guid>
+      <description>Food Printing is set to revolutionize how we think about food. Rather than using metals and plastics to lay down layers, 3D Food Printing uses edible food-based pastes that can be layed down in infinite numbers of patterns, textures, and flavors. The implication of this goes well beyond just simple snacks. It allows chefs to create delicacies that are impossible to do by hand, but also has the potential to reach consumer homes.</description>
+    </item>
+    
+    <item>
+      <title>Robots That Know Each Other</title>
+      <link>https://catosis.github.io/robotics_work/</link>
+      <pubDate>Tue, 20 Nov 2018 02:34:57 -0800</pubDate>
+      
+      <guid>https://catosis.github.io/robotics_work/</guid>
+      <description>Robotics are often conceptualized to fulfill a specific purpose. They are programmed to assemble a car, traverse rough terrain, or suture a wound. These specialized robots are useful, of course, but each requires significant resources to build, design, and develop and often have a physical shape that would prevent it from specializing in other tasks. Their limitations are such Swarm robotics are the exact opposite. A swarm is made out of relatively simple objects that can communicate in order to accomplish larger tasks.</description>
+    </item>
     
     <item>
       <title>My Other Computer Flies on A Balloon</title>
@@ -17,7 +35,8 @@
       <pubDate>Tue, 20 Nov 2018 02:34:12 -0800</pubDate>
       
       <guid>https://catosis.github.io/loon/</guid>
-      <description>https://loon.co/ We provide internet via huge high-altitude balloons that use winds to navigate and transmit wifi signals between them and back to the ground. They use the stratification of winds in the stratosphere to navigate the world and provide internet to regions are the inaccessible by land. I am currently working as a Flight Engineer at Project Loon. My role is half mission control and half software programming, which pushed me to go back to software.</description>
+      <description>45% of the world does not have access to the internet. Loon aims to change that. We provide internet via huge high-altitude balloons that transmit wifi signals from serviced regions, between balloons, and back to users on the ground. They have no motors onboard the balloons, instead using the stratification of winds in the eponymous stratosphere to navgiate the world.
+I am currently working as a Flight Engineer. My role is half mission control and half software programming.</description>
     </item>
     
     <item>
@@ -35,7 +54,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://catosis.github.io/about/</guid>
-      <description>Connie Mabel Zhang has a bachelor&amp;rsquo;s in Mechanical Engineering but spends her time flying balloons that provide internet. In her free time she enjoys drawing and playing videogames, and hopes to work on cool new robots in the future.</description>
+      <description>Connie Mabel Zhang has a bachelor&amp;rsquo;s in Mechanical Engineering and Computer Science and flies balloons that provide internet for a living. She is interested in connected devices and the potential of distributed networks, and hopes to one day apply those concepts to robots.</description>
     </item>
     
     <item>
@@ -44,7 +63,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://catosis.github.io/projects/</guid>
-      <description>Robots That Know Each Other Food of the Future The Bed Goes With You Lets Go to Otter Space My Other Computer Flies On A Balloon</description>
+      <description>Robots That Know Each Other --
+Food of the Future
+The Bed Goes With You
+Lets Go to Otter Space
+My Other Computer Flies On A Balloon</description>
     </item>
     
   </channel>
